@@ -1,4 +1,5 @@
-﻿//Collect two input numbers and calculate and print the sum
+﻿//Collect two input numbers and calculate and print the sum..
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
